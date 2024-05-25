@@ -3,14 +3,10 @@
     background-image: linear-gradient(#000000, #000a2d)!important;
 }
 
-html {
-    width: 100%;
-
-}
-
 body {
-    width: 100%;
-    margin:0 auto;
+    width: 100%!important;
+    margin:0 auto!important;
+    overflow-x: hidden!important;
 }
 
     
