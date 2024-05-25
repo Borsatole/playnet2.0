@@ -1,0 +1,115 @@
+.elementor-11 .elementor-element.elementor-element-1d96fd:not(.elementor-motion-effects-element-type-background), .elementor-11 .elementor-element.elementor-element-1d96fd > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #001fd1!important;
+    background-image: linear-gradient(#000000, #000a2d)!important;
+}
+
+
+    .elementor-image-box-description {
+        color: #ffffff!important;
+        font-weight: 400;
+    }
+
+
+    .elementor-11 .elementor-element.elementor-element-e53bf14:not(.elementor-motion-effects-element-type-background), .elementor-11 .elementor-element.elementor-element-e53bf14 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+        background-color: #000a2d!important;
+    }
+
+
+    .elementor-1013 .elementor-element.elementor-element-6bd38bce .elementor-nav-menu--main .elementor-item {
+        color: #171717!important;
+        fill: #171717!important;
+    }
+
+    .elementor-1013 .elementor-element.elementor-element-6bd38bce .elementor-nav-menu--main .elementor-item:hover{
+        /* background-color: #232323!important; */
+        /* border-radius: 7px!important; */
+        color: rgb(139, 139, 139)!important;
+        fill: #171717!important;
+    }
+
+    .elementor-11 .elementor-element.elementor-element-d5659b4, .elementor-11 .elementor-element.elementor-element-81949cb {
+        --divider-border-style: solid!important;
+        --divider-color: #ffffff!important;
+        --divider-border-width: 3px!important;
+    }
+
+
+    .lista {
+        margin: 0 auto;
+        color: #ffffff;
+        background-color: #000000;
+        border-radius: 20px;
+        padding: 20px;
+        width: 100%;
+        text-align: left;
+        columns: 4;
+    }
+
+    .lista ul {
+        margin: 0 auto;
+    }
+
+    .lista li {
+        display: block;
+    }
+
+    #revendedor_mob {
+        display: none;
+    }
+    
+    @media (max-width: 768px) {
+        .lista {
+            width: 90%;
+            columns: 1;
+            
+        }
+        
+
+        #revendedor_mob {
+            display: block;
+        }
+    
+    
+    }
+
+    
+
+    
+    .elementor-image-box-wrapper {
+        text-align: center!important;
+        border: 1px solid white!important;
+        padding: 25px!important;
+        border-radius: 10px!important;
+    }
+
+     .elementor-view-default .elementor-icon {
+        fill: #000a2d!important;
+        color: #000a2d!important;}
+    
+
+        .elementor-element.elementor-element-321f7235 .elementor-button:hover {
+            background-color: #000000!important;
+            color: white!important;
+        } 
+
+        .elementor-11 .elementor-element.elementor-element-543cf39 .elementor-button:hover {
+            background-color: #000000!important;
+        }
+
+        .elementor-element.elementor-element-321f7235 .elementor-button:focus {
+            background-color: #000000!important;
+            color: white!important;
+        } 
+
+        .elementor-11 .elementor-element.elementor-element-543cf39 .elementor-button:focus {
+            background-color: #000000!important;
+        }
+    
+        .elementor-11 .elementor-element.elementor-element-7120969 .elementor-icon-list-icon i {
+            color: #000a2d!important;
+            
+        }
+
+        .elementor-1016 .elementor-element.elementor-element-1e04a1c8:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-1016 .elementor-element.elementor-element-1e04a1c8 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+            background-color: #1f1f1f!important;
+        }
