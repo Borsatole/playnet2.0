@@ -124,3 +124,7 @@ body {
         .elementor-1016 .elementor-element.elementor-element-1e04a1c8:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-1016 .elementor-element.elementor-element-1e04a1c8 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
             background-color: #1f1f1f!important;
         }
+
+        .elementor-column-gap-default>.elementor-column>.elementor-element-populated {
+            padding: 0px!important;
+        }
