@@ -53,14 +53,6 @@ body {
         columns: 4;
     }
 
-    .lista ul {
-        margin: 0 auto;
-    }
-
-    .lista li {
-        display: block;
-    }
-
     #revendedor_mob {
         display: none;
     }
@@ -124,4 +116,8 @@ body {
 
         .elementor-column-gap-default>.elementor-column>.elementor-element-populated {
             padding: 0px!important;
+        }
+
+        .revendedor {
+            color: #000000;
         }
